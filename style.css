@@ -1,9 +1,9 @@
-@import url("reset.css") screen;
-@import url("animation.css") screen;
+@import url("https://raw.github.com/davidvmatos/PACIFICPESCA/master/reset.css") screen;
+@import url("https://raw.github.com/davidvmatos/PACIFICPESCA/master/animation.css") screen;
 
 /* Common */
 html, body {
-  background:#eaeaea url(../img/bg.png) repeat;
+  background:#eaeaea url(images/bg.png) repeat;
 	font-size:12px;
 	font-family:"Open Sans", serif;
 	min-width:1332px;
